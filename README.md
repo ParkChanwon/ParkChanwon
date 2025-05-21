@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
-  <img src="https://img.shields.io/badge/c#-033963?style=for-the-badge&logo=c%23%23&logoColor=white">
-
+  <img src="https://img.shields.io/badge/c%23-033963?style=for-the-badge&logo=csharp&logoColor=white">
 
 
 
