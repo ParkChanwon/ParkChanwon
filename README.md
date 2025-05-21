@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Chanwon's%20GitHub%20&descAlignY=51&descAlign=62)
 
+<hr>
 
 - 👋 안녕하세요. 박찬원입니다.
 - 👀 I’m interested in ...
