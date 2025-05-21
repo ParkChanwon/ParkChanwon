@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
+
+
 
 ![header](https://capsule-render.vercel.app/api? 헤더에 capsule-render api사용을 명시적으로 적어준 후
 
