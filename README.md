@@ -40,7 +40,37 @@
     
 </br>
 
+## 💻 Project
+Survived Or Dead : 좀비 서바이벌 게임
+<img width="1468" alt="Image" src="https://github.com/user-attachments/assets/b228e67a-204e-4384-bdbe-b6ec0ee61912" />
 
+[프로젝트 개요]
+
+좀비 서바이벌 게임으로, 어디서든 간단하게 짧게 플레이하면서 성취감을 얻을 수 있는 게임을 만들자는 목표로 만들게 되었습니다.</br>
+좀비들은 플레이어를 향해 걸어오며, 플레이어는 주어진 시간동안 피해다니거나, 총을 사용하여 좀비를 무찔러야 합니다. 
+
+[프로젝트 바로가기](https://github.com/ParkChanwon/Unity)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParkChanwon&show_icons=true&theme=dark" />
@@ -49,16 +79,3 @@
 
 </br>
 
-## 📂 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/ParkChanwon/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParkChanwon&repo=project1&theme=dark" alt="project1" />
-  </a>
-  <a href="https://github.com/ParkChanwon/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParkChanwon&repo=project2&theme=dark" alt="project2" />
-  </a>
-</p>
-<!---
-ParkChanwon/ParkChanwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
