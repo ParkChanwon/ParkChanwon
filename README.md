@@ -15,13 +15,6 @@
   <a href="mailto:xormr1505@naver.com">
     <img src="https://img.shields.io/badge/Naver-20C997?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
   </a>
-
-<!-- Instagram 배지 -->
-<a href="https://instagram.com/c_w.on" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
 </a>
 </p>
 
@@ -68,7 +61,14 @@ Quad Action : 핵앤슬래시 장르의 게임
 
 ---
 
+[프로젝트 개요]
 
+핵앤슬래시 장르의 게임으로, 짧고 간단하고 조작이 쉽게 플레이할 수 있으며, 맵 곳곳에서 스폰되는 무기들과 총알을 먹으며 다양한 난이도의 몬스터를 피하며 무찔러야합니다.
+
+주인공은 재장전, 구르기, 달리기 등의 다양한 애니메이션으로 적의 공격을 회피할 수 있고, 이를 통하여 스테이지를 계속해서 나아가야합니다.
+무기가 스폰되는 곳에서의 파티클이나, 수류탄이 날아가는 등의 파티클 효과를 만들어 시각적으로도 만족시킬 수 있는 게임을 만들어보았습니다.
+
+[프로젝트 바로가기](https://github.com/ParkChanwon/Unity_)
 
 
 
