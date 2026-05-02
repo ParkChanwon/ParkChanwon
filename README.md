@@ -5,7 +5,7 @@
 <hr>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 배우고 싶은 개발자 박찬원입니다 ! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 배우며 성장하고싶은 개발자 박찬원입니다 ! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 앞으로 꾸준하게 성장하는 개발자가 되고 싶습니다.</li><li> 저는 많은 것을 배우며 노력하고 싶습니다.</li><li> 멈춰있지 않고 계속 나아가고 싶습니다. </div> 
     </div>
 
